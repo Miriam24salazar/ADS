@@ -1,0 +1,9 @@
+insert into usuarios (id_usuario, nombre, apellido, tipoUsuario, correo, telefono, id_cuenta, id_cuadrilla) values (1, 'sam', 'carrillo dávila', 'admin', 'admin@gmail.com', 8444981857, 1, 0);
+insert into usuarios (id_usuario, nombre, apellido, tipoUsuario, correo, telefono, id_cuenta, id_cuadrilla) values (2, 'miriam', 'palacios gomez', 'jefe', 'jefe@gmail.com', 8442606246, 2, 1);
+insert into usuarios (id_usuario, nombre, apellido, tipoUsuario, correo, telefono, id_cuenta, id_cuadrilla) values (3, 'raul', 'mucharraz llamas', 'jefe', 'jefe2@gmail.com', 8443449865, 3, 2);
+insert into usuarios (id_usuario, nombre, apellido, tipoUsuario, correo, telefono, id_cuenta, id_cuadrilla) values (4, 'anahi', 'Garcia Flores', 'intCuadrilla', 'anahi@gmail.com', 8449081256, 4, 1);
+insert into usuarios (id_usuario, nombre, apellido, tipoUsuario, correo, telefono, id_cuenta, id_cuadrilla) values (5, 'paco', 'Ortiz Vazquez', 'intCuadrilla', 'paco@gmail.com', 8443520487, 5, 1);
+insert into usuarios (id_usuario, nombre, apellido, tipoUsuario, correo, telefono, id_cuenta, id_cuadrilla) values (6, 'Maria', 'Jimenez Torres', 'intCuadrilla', 'Maria@gmail.com', 8445197632, 6, 2);
+insert into usuarios (id_usuario, nombre, apellido, tipoUsuario, correo, telefono, id_cuenta, id_cuadrilla) values (7, 'Sofia', 'Ramirez Fernandez', 'intCuadrilla', 'sofia@gmail.com', 8446051984, 7, 2);
+insert into usuarios (id_usuario, nombre, apellido, tipoUsuario, correo, telefono, id_cuenta, id_cuadrilla) values (8, 'Andres', 'Sanchez Reyes', 'intCuadrilla', 'andres@gmail.com', 8449610274, 8, 2);
+insert into usuarios (id_usuario, nombre, apellido, tipoUsuario, correo, telefono, id_cuenta, id_cuadrilla) values (9, 'Saul', 'Lopez Martinez', 'intCuadrilla', 'saul@gmail.com', 8442938164, 9, 2);
